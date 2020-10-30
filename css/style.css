@@ -1,6 +1,6 @@
 
 .navbar {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
 }
 
 .tittle-page {
@@ -18,4 +18,19 @@
 } 
 .text {
     padding-bottom: 8px;
+}
+.form-label-group {
+    padding-bottom: 30px;
+}
+
+.site-header {
+    background-color: black;
+}
+
+.navbar-brand {
+    padding-left: 480px;
+}
+
+.container {
+    padding: 20px;
 }
