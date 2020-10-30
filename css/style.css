@@ -1,0 +1,21 @@
+
+.navbar {
+    background-color: white;
+}
+
+.tittle-page {
+    font-family: FreeMono, monospace;
+}
+
+.formulario {
+    padding: 50px 400px;
+    width: auto;
+    height: auto;
+}
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+} 
+.text {
+    padding-bottom: 8px;
+}
